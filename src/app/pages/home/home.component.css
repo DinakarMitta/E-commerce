@@ -1,0 +1,7 @@
+.name-p{
+    height: 100px;
+    overflow: hidden;
+    -webkit-line-clamp: 4;
+  text-overflow: ellipsis;
+  
+}
